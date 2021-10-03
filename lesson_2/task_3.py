@@ -7,3 +7,4 @@ elif number_of_month in (6, 7, 8):
     print("Summer")
 elif number_of_month in (9, 10, 12):
     print("Fall")
+    
