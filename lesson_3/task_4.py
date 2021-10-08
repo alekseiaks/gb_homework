@@ -3,4 +3,5 @@ def my_func(x, y):
         x *= x
     return x
 
-print(my_func(5,3))
+
+print(my_func(5, 3))

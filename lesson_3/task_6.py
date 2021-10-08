@@ -5,4 +5,3 @@ def int_func(text):
 
 
 print(int_func(input("Введите текст прописными буквами: ")))
-
